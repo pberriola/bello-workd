@@ -1,2 +1,2 @@
-# bello-workd
+# hello - word
 Prima repository
